@@ -43,7 +43,7 @@ The dataset contains 365 rows (daily data for 2019) with performance metrics for
 ### 2. Exploratory Data Analysis (EDA)
 I visualized the distribution of clicks and costs to identify stability and trends.
 
-![Distribution Analysis](images/eda_distribution.png)
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/ed1cc263-46a1-4c6a-8c1b-0f971903f42e" />
 
 *Observation: Facebook's conversion rate distribution (Blue) is significantly shifted to the right compared to AdWords (Green), indicating consistently higher lead quality.*
 
@@ -70,7 +70,7 @@ Since the data is time-dependent (same market conditions affect both platforms d
 
 The final analysis highlights the magnitude of the difference between the two platforms.
 
-![Results Summary](images/results_summary.png)
+<img width="1589" height="1189" alt="image" src="https://github.com/user-attachments/assets/b6c5cf4d-c292-4601-9d3d-1359903a82c9" />
 
 | Metric | Facebook (Avg) | AdWords (Avg) | Difference |
 | :--- | :--- | :--- | :--- |
